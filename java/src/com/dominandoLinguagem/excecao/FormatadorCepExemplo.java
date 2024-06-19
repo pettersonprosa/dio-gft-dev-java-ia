@@ -1,4 +1,5 @@
-package com.excecao;
+package com.dominandoLinguagem.excecao;
+
 
 public class FormatadorCepExemplo {
     public static void main(String[] args) {

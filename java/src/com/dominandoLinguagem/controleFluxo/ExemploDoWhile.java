@@ -1,4 +1,5 @@
-package com.controleFluxo;
+package com.dominandoLinguagem.controleFluxo;
+
 
 import java.util.Random;
 

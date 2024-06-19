@@ -1,4 +1,4 @@
-package com.controleFluxo;
+package com.dominandoLinguagem.controleFluxo;
 
 public class CaixaEletronico {
     public static void main(String[] args) {

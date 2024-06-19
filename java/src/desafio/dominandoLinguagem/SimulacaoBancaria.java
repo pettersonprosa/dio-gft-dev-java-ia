@@ -1,4 +1,4 @@
-package desafio.dominandoLinguagemProgramacao;
+package desafio.dominandoLinguagem;
 
 import java.util.Scanner;
 
