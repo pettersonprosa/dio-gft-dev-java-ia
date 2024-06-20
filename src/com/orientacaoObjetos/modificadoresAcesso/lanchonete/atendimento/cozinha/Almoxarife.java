@@ -1,4 +1,4 @@
-package com.orientacaoObjetos.lanchonete.atendimento.cozinha;
+package com.orientacaoObjetos.modificadoresAcesso.lanchonete.atendimento.cozinha;
 
 public class Almoxarife {
     private void controlarEntrada() {

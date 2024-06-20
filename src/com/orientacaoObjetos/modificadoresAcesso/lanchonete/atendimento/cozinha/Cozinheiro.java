@@ -1,6 +1,4 @@
-package com.orientacaoObjetos.lanchonete.atendimento.cozinha;
-
-import com.orientacaoObjetos.lanchonete.atendimento.Atendente;
+package com.orientacaoObjetos.modificadoresAcesso.lanchonete.atendimento.cozinha;
 
 public class Cozinheiro {
     //pode ser default

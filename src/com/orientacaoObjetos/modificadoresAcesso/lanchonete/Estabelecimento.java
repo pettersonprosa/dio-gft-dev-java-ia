@@ -1,9 +1,8 @@
-package com.orientacaoObjetos.lanchonete;
+package com.orientacaoObjetos.modificadoresAcesso.lanchonete;
 
-import com.orientacaoObjetos.lanchonete.area.cliente.Cliente;
-import com.orientacaoObjetos.lanchonete.atendimento.Atendente;
-import com.orientacaoObjetos.lanchonete.atendimento.cozinha.Almoxarife;
-import com.orientacaoObjetos.lanchonete.atendimento.cozinha.Cozinheiro;
+import com.orientacaoObjetos.modificadoresAcesso.lanchonete.area.cliente.Cliente;
+import com.orientacaoObjetos.modificadoresAcesso.lanchonete.atendimento.Atendente;
+import com.orientacaoObjetos.modificadoresAcesso.lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {
     public static void main(String[] args) {

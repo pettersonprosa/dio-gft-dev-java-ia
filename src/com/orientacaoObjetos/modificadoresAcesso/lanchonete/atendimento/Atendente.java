@@ -1,4 +1,4 @@
-package com.orientacaoObjetos.lanchonete.atendimento;
+package com.orientacaoObjetos.modificadoresAcesso.lanchonete.atendimento;
 
 public class Atendente {
     public void servindoMesa() {

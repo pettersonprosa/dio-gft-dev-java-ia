@@ -1,4 +1,4 @@
-package com.orientacaoObjetos.lanchonete.area.cliente;
+package com.orientacaoObjetos.modificadoresAcesso.lanchonete.area.cliente;
 
 public class Cliente {
     public void escolherLanche() {

@@ -1,4 +1,4 @@
-package com;
+package com.orientacaoObjetos.getterSetter;
 
 public class Aluno {
     private String nome;
