@@ -30,3 +30,4 @@ bin/**/*.md
 /.idea
 /bin
 dio-gft-dev-java-ia.iml
+/src/testes
