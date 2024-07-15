@@ -1,2 +1,14 @@
-package com.designPatterns.criacao.singleton;public class SingletonEager {
+package com.designPatterns.criacao.singleton;
+
+public class SingletonEager {
+
+    private static SingletonEager instancia = new SingletonEager();
+
+    private SingletonEager() {
+        super();
+    }
+
+    public static SingletonEager getInstance() {
+        return instancia;
+    }
 }
